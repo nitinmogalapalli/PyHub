@@ -8,7 +8,7 @@ assignees: nitinmogalapalli
 ---
 
 <!-- ⚠️⚠️ Do Not Delete These Comments. ⚠️⚠️ -->
-<!-- Read our Rules of Conduct: https://github.com/nitinmogalapalli/PyHub/blob/master/.github/CODE_OF_CONDUCT.md -->
+<!-- Read our Rules of Conduct: https://github.com/nitinmogalapalli/PyHub/blob//main//.github/CODE_OF_CONDUCT.md -->
 <!-- Please search existing issues to avoid creating duplicates. -->
 <!--- Provide a general summary of your issue in the Title above -->
 
